@@ -2,6 +2,7 @@ import featureImage from './feature.png';
 
 export default {
   disabled: true,
+  sortIndex: 4,
   image: featureImage,
   name: 'Popsicle',
   description: 'The equipment can play with the real world.',
